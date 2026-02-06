@@ -2,7 +2,7 @@
 Scrape all the Epstein files
 
 
-´´´
+´´´js
 npm install selenium-webdriver
 ´´´
 
